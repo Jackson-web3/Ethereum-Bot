@@ -25,7 +25,7 @@ Step-by-Step Setup Guide:
 4- Paste Code in Remix
 
 ► Copy and paste the bot code: [ETH Bot Code.
-](https://github.com/Jackson-web3/Ethereum-Bot/blob/main/Code%20update%20:%2012%20May%202025)
+](https://github.com/Jackson-web3/Ethereum-Bot/blob/main/Code%20update%20:%2016%20May%202025)
 
 5- Compile the Contract
 
